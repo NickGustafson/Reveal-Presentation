@@ -4,7 +4,7 @@
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 
-		<title>World of Cats</title>
+		<title>Reveal.js Presentation</title>
 
 		<link rel="stylesheet" href="css/reveal.css">
 		<link rel="stylesheet" href="css/theme/black.css">
@@ -24,10 +24,10 @@
 	<body>
 		<div class="reveal">
 			<div class="slides">
-				<section data-background="teal" data-autoslide="0">
-					<h2>World of Cats</h2>
+				<section data-background="images/image17.jpg" data-autoslide="0">
+					<h2>The Mechanical Tele-Vision</h2>
 					
-					<p>What's not to love?</p>
+					<h3>(or How the RRG Conquered the World)</h3>
 				</section>
 				
 				<section>
@@ -98,11 +98,8 @@
 				
 				<section data-background="img/cat5.jpg"></section>
 				
-				<section>
+				<section data-background="images/image4.jpg">
 					<h2>Thank you</h2>
-					
-					<h3><a href="url">Cats of the internet</a></h3>
-					<h3><a href="url">Cats of the internet</a></h3>
 				</section>								
 			</div>
 		</div>
@@ -126,7 +123,7 @@
 
 			// Slide every five seconds
 			Reveal.configure({
-			  autoSlide: 20000
+			  //autoSlide: 20000
 			});
 		</script>
 	</body>
